@@ -9,4 +9,4 @@ chmod +x system.sh
 ./system.sh
 
 ```
-# DON'T FORGET TO BREATHE!!!
+# Do not waste your time!!!
